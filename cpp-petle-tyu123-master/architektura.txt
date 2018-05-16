@@ -1,0 +1,26 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-03-02T11:11:52+01:00
+
+====== architektura ======
+Created piątek 02 marzec 2018
+
+Architektura von Neumanna – pierwszy rodzaj architektury komputera, opracowanej przez Johna von Neumanna, Johna W. Mauchly’ego oraz Johna Presper Eckerta w 1945 roku. Cechą charakterystyczną tej architektury jest to, że dane przechowywane są wspólnie z instrukcjami, co sprawia, że są kodowane w ten sam sposób.
+
+W architekturze tej komputer składa się z czterech głównych komponentów:
+
+	pamięci komputerowej przechowującej dane programu oraz instrukcje programu; każda komórka pamięci ma unikatowy identyfikator nazywany jej adresem
+	jednostki sterującej odpowiedzialnej za pobieranie danych i instrukcji z pamięci oraz ich sekwencyjne przetwarzanie
+	jednostki arytmetyczno-logicznej odpowiedzialnej za wykonywanie podstawowych operacji arytmetycznych.
+	urządzeń wejścia/wyjścia służących do interakcji z operatorem
+
+Jednostka sterująca wraz z jednostką arytmetyczno-logiczną tworzą procesor.
+Procesor składa się z rejestrów
+Jednosta sterująca synchronizuje prace logicznych modułów komputera za pomoca szyny systemowej
+szyna dje podstawowe taktowanie wykonywanych operacji
+szyna danych słóżąca do przesyłania danych
+szyna adresowa decyduje gdzie trafiają dane i musza byc odczytywane z odpowiednich miejsc
+część danych bierze się z pamieci ROM w której znajduje sie BIOS czyli postawowy system wejścia i wyjścia
+Każde urządzenie elektryczne musi mieć swoja pamięc rom i pewnien rodziaj BIOSa
+Dane wejściowe
+Dane wyjściowe

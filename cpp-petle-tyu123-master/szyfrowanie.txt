@@ -1,0 +1,22 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-02-06T13:25:03+01:00
+
+====== szyfrowanie ======
+Created wtorek 06 luty 2018
+
+Szyfrowanie - ukrycie danych
+
+deszyfracja - odczytywanie zaszyfrowanych plików
+
+Przestawieniowe - Zapis tekstu w wierszach o ustalonej długości. Klucz to ilość kolumn na które dzielimy tekst
+
+klucz publiczny - klucz, który udostepniamy i za pomocą którego ktoś pisząc do nas wiadomość ją szyfruje
+
+klucz prywatny -  klucz, którym odszyfrujemy otrzymane wiadomości zaszyfrowane naszym kluczem publicznym
+
+Najpopularniejszy algorytm do generowania kluczy prywatnych i publucznych to RSA, opiera się na parach dużych liczb pierwszych
+
+Urząd certyfikacji - Instytucja, która odpłatnie generuje w naszym imieniu generuje klucz prywatny i publiczny, po czym dostajemy certyfikat
+
+Klucz publiczny i prywatny nie występują w postaci jawnej, najczęściej są zahashowane za pomocą funkcji skrótu

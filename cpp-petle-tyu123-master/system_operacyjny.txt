@@ -1,0 +1,37 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-03-06T12:57:48+01:00
+
+====== system operacyjny ======
+Created wtorek 06 marzec 201
+
+w syystemie najważniejsze jest jądro które jako pierwsze ładuje sie w pamięci komputera i  najcześciej wczytuje sterewniki do urządzeń
+Otwarte oprogramowanie jest dostępne za darmo – dotyczy to zarówno programów, jak i systemów operacyjnych. Najczęściej tworzone są one i rozbudowywane przez społeczność użytkowników, a następnie udostępniane w sieci. Aktualizowane są te najpopularniejsze i te, nad którymi pracuje najwięcej osób, np. Mozilla Firefox czy Thunderbird. Szansa na to, żeby niepopularny program był często aktualizowany i posiadał rozbudowaną pomoc techniczną, jest mniejsza. W praktyce liczy się to, ile osób z danego programu korzysta.
+
+Oprogramowaniem bez którego nie może dziś istnieć (w zasadzie) system komputerowy jest system operacyjny.
+
+System operacyjny jest programem albo grupą programów, które pełnią w systemie komputerowym szczególną rolę.
+
+System operacyjny powinien spełniać dwa podstawowe zadania:
+
+-     tworzyć wygodne i wydajne środowisko dla użytkownika systemu;
+
+-       zapewniać wydajną i bezawaryjną pracę wszystkich komponentów systemu komputerowego.
+
+ Funkcja zarządzająca
+
+System operacyjny zarządza pracą wszystkich elementów wchodzących w skład systemu komputerowego. Jego zadanie polega na dostarczaniu odpowiednich mechanizmów do właściwego użycia zasobów systemu i do pracy programów użytkowych. Tworzy on środowisko do pracy innych programów.
+
+Funkcja dystrybucji zasobów
+
+System operacyjny ma pod swoją opieką wiele różnych zasobów wchodzących w skład systemu komputerowego. Zasoby te – takie jak obszar pamięci operacyjnej, pamięci zewnętrznej, czas procesora, dostęp do magistrali danych  są potrzebne różnym programom po to, aby mogły prawidłowo wykonywać swoje zadania. Rolą systemu operacyjnego jest odpowiedni przydział (dystrybucja) zasobów poszczególnym programom, które zgłaszają potrzebę ich wykorzystania.
+
+Tak więc programy użytkowe, które potrzebują skorzystać z określonego zasobu komputera muszą zgłosić się do systemu operacyjnego z prośbą o przydzielenie im tego zasobu. Jednym słowem, składają zamówienia na potrzebne zasoby. System operacyjny rozpatruje te zamówienia i decyduje o ich realizacji.
+
+Funkcja sterująca
+
+Z funkcją dystrybucyjną nierozerwalnie związana jest funkcja sterująca. Polega ona na nadzorowaniu działania programów użytkownika, przeciwdziałaniu błędom i zapobiegania sytuacjom awaryjnym i nieprawidłowemu wykorzystaniu komputera. Jednym z zadań systemu operacyjnego jest na przykład sterowanie pracą urządzeń wejścia-wyjścia i zapewnienie poprawnej współpracy jednostki centralnej z urządzeniami peryferyjnymi takimi jak klawiatura czy drukarka.
+
+Większosc użytkowników uważa interfejs za system operacyjny
+ 
+ 
